@@ -1,2 +1,2 @@
 # PO_Script
-PO Script for AG Excel Spreadsheets
+PO Script to create AG Excel Spreadsheets
